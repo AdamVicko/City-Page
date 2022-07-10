@@ -162,7 +162,9 @@ footer{
     width: 150px;
     height: 150px;
   }
-
+  .plangrada{
+    background-image: url(/Images/PlanGrada.png);
+  }
 #opisplanagrada{
     position: relative;
     margin-top: 75px;
