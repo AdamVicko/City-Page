@@ -57,17 +57,17 @@
  
   .carouselDark-carousel-image1{
     
-    background-image:url('/Images/SC1.jpg');
+    background-image:url('/Slunj/Images/SC1.jpg');
   }
 
   .carouselDark-carousel-image2{
     
-    background-image:url('/Images/SC2.jpg');
+    background-image:url('/Slunj/Images/SC2.jpg');
   }
 
   .carouselDark-carousel-image3{
     
-    background-image:url('/Images/SC3.jpg');
+    background-image:url('/Slunj/Images/SC3.jpg');
   }
 
 
@@ -75,7 +75,7 @@
   /*Article slunjhome*/
 
 #blood{
-    background-image:url('/Images/bloodstain.jpg');
+    background-image:url('/Slunj/Images/bloodstain.jpg');
 }
 
 .card{
@@ -100,7 +100,7 @@ footer{
 /*Jumbotron*/
     
 .jumbotron-OGradu{
-    background: url(/Images/JT-1.jpg) no-repeat fixed ;
+    background: url(/Slunj/Images/JT-1.jpg) no-repeat fixed ;
     background-size: cover;
     box-shadow: inset 0 0 0 100vw rgba(0, 0, 0, 0.1);
     height: 40vh;
@@ -163,7 +163,7 @@ footer{
     height: 150px;
   }
   .plangrada{
-    background-image: url(/Images/PlanGrada.png);
+    background-image: url(/Slunj/Images/PlanGrada.png);
   }
 #opisplanagrada{
     position: relative;
